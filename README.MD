@@ -12,6 +12,7 @@
 | Día |                                     Reto                                     | Dificultad |                                         Solución                                         | Estrellas  |
 | :-: | :--------------------------------------------------------------------------: | :--------: | :--------------------------------------------------------------------------------------: | ---------- |
 | 01  | [**🎁 ¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2024/1) |     🟢     | [**codigo**](https://github.com/jeancdevx/adventjs-2024/blob/master/ejercicio1/index.js) | ⭐⭐⭐⭐⭐ |
+| 02  |    [**🖼️ Enmarcando nombres**](https://adventjs.dev/es/challenges/2024/2)    |     🟢     | [**codigo**](https://github.com/jeancdevx/adventjs-2024/blob/master/ejercicio2/index.js) | ⭐⭐⭐⭐⭐ |
 
 ## 📝 Clonar
 
