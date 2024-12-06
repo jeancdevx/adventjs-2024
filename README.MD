@@ -14,6 +14,7 @@
 | 01  | [**🎁 ¡Primer regalo repetido!**](https://adventjs.dev/es/challenges/2024/1) |     🟢     | [**codigo**](https://github.com/jeancdevx/adventjs-2024/blob/master/ejercicio1/index.js) | ⭐⭐⭐⭐⭐ |
 | 02  |    [**🖼️ Enmarcando nombres**](https://adventjs.dev/es/challenges/2024/2)    |     🟢     | [**codigo**](https://github.com/jeancdevx/adventjs-2024/blob/master/ejercicio2/index.js) | ⭐⭐⭐⭐⭐ |
 | 03  | [**🏗️ Organizando el inventario**](https://adventjs.dev/es/challenges/2024/3) |     🟢     | [**codigo**](https://github.com/jeancdevx/adventjs-2024/blob/master/ejercicio3/index.js) | ⭐⭐⭐⭐ |
+| 04  | [**🎄 Creando un árbol de Navidad**](https://adventjs.dev/es/challenges/2024/4) |     🟢     | [**codigo**](https://github.com/jeancdevx/adventjs-2024/blob/master/ejercicio4/index.js) | ⭐⭐⭐⭐⭐ |
 
 ## 📝 Clonar
 
